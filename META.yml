@@ -21,4 +21,4 @@ requires:
 resources:
   homepage: http://metacpan.org/dist/Perl-Stripper
   repository: http://github.com/sharyanto/perl-Perl-Stripper
-version: 0.01
+version: 0.02
